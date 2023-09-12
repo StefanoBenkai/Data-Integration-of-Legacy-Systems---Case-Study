@@ -1,0 +1,1 @@
+The assessment project for a logistics company, which got me a job offer as a Data Integration Manager, involved creating a roadmap for integrating legacy systems into a new Microsoft suite, taking into account the introduction of Microsoft ERP
